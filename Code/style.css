@@ -302,7 +302,7 @@ body {
 .product-image {
     width: 100%;
     height: 340px;
-    background-image: url("amazon books.jpg");
+    background-image: url("/Images/amazon books.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
